@@ -1,0 +1,4 @@
+
+JSON-RPC 1.1 implementation
+
+works with Django, could probably work fine with other stuff too with small mods.
